@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  NYC-Parking-Ticket-Violation             |  A report on the Exploratory Data Analysis of the New York Parking Ticket Violation dataset             | https://github.com/Josiegithub/NYC-Parking-Ticket-Violation.git       |
+| 2 |  Titanic             |  Creating A Regression Model for the Titanic Dataset             | https://github.com/Josiegithub/Titanic.git       |
+| 3 |  Predictive-Analysis             |  Modelling a Multi Class Classification on a Dollar Tree Website             | https://github.com/Josiegithub/Predictive-Analysis.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
